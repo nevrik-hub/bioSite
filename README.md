@@ -1,5 +1,5 @@
-# CSD 340 Web Development with HTML and CSS
-
+# CSD-340 CSD340-302E Web Development with HTML and CSS
 ## Contributors
-* Dr. Mortoza Abdullah
-* Nicholas Zankl
+
+* Instructor: Dr. Mortoza Abdullah
+* Nick Zankl
